@@ -3,6 +3,8 @@ title: "State of the product job market in 2025"
 subtitle: "There’s a lot to be optimistic about"
 date: "2025-05-13"
 type: "newsletter"
+post_url: "https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-2025"
+tags: ["product-management", "newsletter", "ai", "career", "engineering", "strategy"]
 word_count: 1376
 ---
 

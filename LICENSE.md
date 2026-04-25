@@ -1,28 +1,32 @@
 # License
 
-## Lenny's Data
+## Lenny's Newsletter and Podcast Content
 
 Copyright (c) 2019–2026 Lenny Rachitsky. All rights reserved.
 
 ---
 
-## Starter dataset in this public repo
+This archive is provided exclusively for the personal use of paid subscribers to Lenny's Newsletter. By accessing or using this archive, you agree to the following terms.
 
-You may use the starter dataset in this public repo for personal, non-commercial work.
+These paid full-archive terms are intentionally more restrictive than the public starter repo license.
 
-That includes studying it, remixing it locally, publishing projects built with it, and using it in personal work.
+### What you CAN do
 
-You may not redistribute the raw starter dataset files or use the raw contents for commercial work.
+- **Use with AI tools** — Load this content into AI assistants (Claude, ChatGPT, etc.), RAG pipelines, or any other AI tools for your own personal or hobby use
+- **Train models** — Fine-tune, train, or build personal AI models and embeddings using this content, for non-commercial purposes
+- **Build on top of it** — Create personal projects, tools, apps, or prototypes that use this archive as a data source, and share those projects publicly, as long as you do not charge for access to the archive or redistribute the raw files
+- **Adapt and remix** — Create derivative works (summaries, guides, analyses) for your own personal use
 
-The only thing you may not do is claim ownership of Lenny Rachitsky's original content.
+### What you CANNOT do
 
-These starter-dataset terms are intentionally narrower than the paid full-archive terms below when it comes to raw-content redistribution and commercial use.
+- **Redistribute the raw content** — Do not share, upload, repost, or redistribute the archive files (or substantial portions of them) in any form. This content is for paid subscribers only.
+- **Charge for it** — Do not sell access to this archive, or sell any product or service that is primarily built on this content
+- **Use it commercially** — Do not use this content in any commercial product, service, or offering, including commercial AI/ML products, paid APIs, or SaaS tools
+- **Claim ownership** — This content remains the intellectual property of Lenny Rachitsky
 
-## Full paid archive
+### In short
 
-The full archive available at [https://www.lennysdata.com](https://www.lennysdata.com) is covered by different terms.
-
-Paid subscribers may use the full archive for personal projects and may share those projects publicly. They may not redistribute the raw archive files, repost substantial portions of the raw content, or use the archive itself to make money.
+This archive is yours to learn from, build with, and feed to AI tools for personal and hobby projects, including projects you share publicly. Just don't share the raw content with others or use the archive itself to make money.
 
 ### Questions?
 

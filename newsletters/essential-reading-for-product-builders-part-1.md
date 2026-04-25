@@ -3,6 +3,8 @@ title: "Essential reading for product builders—part 1"
 subtitle: "7 timeless essays you likely haven’t read but should"
 date: "2025-07-15"
 type: "newsletter"
+post_url: "https://www.lennysnewsletter.com/p/essential-reading-for-product-builders-part-1"
+tags: ["leadership", "design", "strategy", "newsletter", "startups", "career"]
 word_count: 2850
 ---
 

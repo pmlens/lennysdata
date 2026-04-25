@@ -3,6 +3,8 @@ title: "An AI glossary"
 subtitle: "The most common AI terms explained, simply"
 date: "2025-06-24"
 type: "newsletter"
+post_url: "https://www.lennysnewsletter.com/p/an-ai-glossary"
+tags: ["ai", "engineering", "design", "newsletter", "b2b", "b2c"]
 word_count: 3280
 ---
 

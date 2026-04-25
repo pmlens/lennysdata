@@ -3,6 +3,8 @@ title: "How to build your PM second brain with ChatGPT"
 subtitle: "Use AI to amplify your craft, not replace it"
 date: "2025-12-16"
 type: "newsletter"
+post_url: "https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt"
+tags: ["ai", "design", "product-management", "newsletter", "leadership", "strategy"]
 word_count: 3358
 ---
 
